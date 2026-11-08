@@ -1,1 +1,2 @@
-# python_sets_operations
+!([ex1](ex1.png)
+![ex2](ex2.png)
